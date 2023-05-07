@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TI Undira</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_zakario">Zakario Lesrahmanto - 411201066</string>
+    <string name="nav_yoni">Yoni Eka Saputra - 411201160</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Beranda</string>
+    <string name="menu_visimisi">Visi dan Misi Program Studi TI</string>
+    <string name="menu_tujuan">Tujuan Program Studio TI</string>
+    <string name="menu_lulusan">Profil Lulusan Program TI</string>
+    <string name="menu_studi">Mengapa Memilih Program Studi TI</string>
+    <string name="menu_kurikulum">Kurikulum</string>
+    <string name="menu_hubungi">Hubungi Kami</string>
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="konten_tentang">Menjadi Universitas Terpercaya dan Profesional yang berwawasan Global, untuk memenuhi kebutuhan dunia industri dan kewirausahaan berbasis Ilmu Pengetahuan dan Teknologi pada tahun 2030 </string>
+    <string name="header_tentang">Tentang UNDIRA</string>
+    <string name="header_tanjung_duren">Kampus Tanjung Duren</string>
+    <string name="header_green_ville">Kampus Green Ville</string>
+    <string name="header_cibubur">Kampus Cibubur</string>
+
+    <string name="alamat_tanjung_duren">JI Tanjung Duren Barat II No 1 Grogol Jakarta Barat. No.Telp: 021-21194454</string>
+    <string name="alamat_green_ville">JI. Mangga 14, No 3 Kec Kebon Jeruk Jakarta Barat, 11510</string>
+    <string name="alamat_cibubur">Jl. Rawa Dolar 65 Jatiranggon,Kec Jatisampurna, Bekasi. No.Telp: 021-22176334</string>
+
+    <string name="copyright">©Copyright UNDIRA 2023. All Right Reserved</string>
+
+
+    <string name="header_visimisi">Visi dan Misi Program Studi Teknik Informatika</string>
+
+
+
+
+</resources>

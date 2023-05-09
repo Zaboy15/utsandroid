@@ -16,7 +16,16 @@
 
     <style name="Theme.TIUndira.NoActionBar">
         <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/primary</item>
         <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.TIUndira.AppThemeNoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary</item>
+        <item name="colorAccent">@color/primary</item>
+        <item name="colorControlNormal">@color/primary</item>
     </style>
 
     <style name="Theme.TIUndira.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />

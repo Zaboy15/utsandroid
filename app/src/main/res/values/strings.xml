@@ -21,6 +21,13 @@
     <string name="menu_slideshow">Slideshow</string>
 
     <string name="konten_tentang">Menjadi Universitas Terpercaya dan Profesional yang berwawasan Global, untuk memenuhi kebutuhan dunia industri dan kewirausahaan berbasis Ilmu Pengetahuan dan Teknologi pada tahun 2030 </string>
+    <string name="konten_visi">Menjadi program studi terpercaya dan profesional yang berwawasan global untuk memenuhi kebutuhan dunia industri dan kewirausahaan berbasis ilmu pengetahuan dan teknologi dalam bidang keahlian network enterprise engineer dan software engineer pada tahun 2030.</string>
+    <string name="header_misi">Misi Program Studi TI</string>
+    <string name="konten_misi_1">Menyelenggarakan pengajaran, penelitian, dan pengabdian kepada kewirausahaan masyarakat bidang network enterprise engineer dan software engineer yang bermutu, terpercaya dan profesional.</string>
+    <string name="konten_misi_2">Mengembangkan kemampuan dan keterampilan mahasiswa melalui berbagai kegiatan untuk memenuhi kebutuhan dunia industri dan secara berkesinambungan dalam bidang network enterprise engineer dan software engineer.</string>
+    <string name="konten_misi_3">Menyediakan sarana dan prasarana pendukung proses belajar mengajar bidang network enterprise engineer dan software engineer terkini yang tepat guna melampaui standar mutu Pendidikan Tinggi Nasional.</string>
+    <string name="konten_misi_4">Menerapkan tata kelola program studi yang efektif dan efisien melalui lingkungan kerja yang harmonis dan produktif</string>
+    <string name="konten_misi_5">Membangun kerjasama dan hubungan yang sinergis dengan seluruh pemangku kepentingan dalam bidang teknik informatika.</string>
     <string name="header_tentang">Tentang UNDIRA</string>
     <string name="header_tanjung_duren">Kampus Tanjung Duren</string>
     <string name="header_green_ville">Kampus Green Ville</string>

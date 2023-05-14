@@ -17,14 +17,15 @@
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="700dp"
-            android:layout_marginTop="8dp"
+            android:layout_marginTop="20dp"
             android:background="@color/primary"
             android:orientation="vertical"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/text_konten_tentang">
+            app:layout_constraintTop_toBottomOf="@+id/text_konten_tentang"
+            app:layout_constraintVertical_bias="1.0">
 
             <TextView
                 android:id="@+id/text_alamat_tanjung"
@@ -162,11 +163,22 @@
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
+        <ImageView
+            android:id="@+id/imageBeranda"
+            android:layout_width="467dp"
+            android:layout_height="187dp"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/banner_home"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
         <TextView
             android:id="@+id/text_beranda"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
             android:text="@string/header_tentang"
             android:textAlignment="textStart"
             android:textColor="@color/primary"
@@ -176,26 +188,26 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.033" />
+            app:layout_constraintTop_toBottomOf="@+id/imageBeranda"
+            app:layout_constraintVertical_bias="0.0" />
 
         <TextView
             android:id="@+id/text_konten_tentang"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
-            android:layout_marginTop="8dp"
+            android:layout_marginTop="20dp"
             android:layout_marginEnd="8dp"
             android:text="@string/konten_tentang"
             android:textAlignment="textStart"
             android:textColor="@color/black"
-            android:textSize="20sp"
+            android:textSize="14sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.252" />
+            app:layout_constraintTop_toBottomOf="@+id/text_beranda"
+            app:layout_constraintVertical_bias="0.005" />
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>

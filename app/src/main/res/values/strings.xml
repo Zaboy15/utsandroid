@@ -11,7 +11,7 @@
 
     <string name="menu_home">Beranda</string>
     <string name="menu_visimisi">Visi dan Misi Program Studi TI</string>
-    <string name="menu_tujuan">Tujuan Program Studio TI</string>
+    <string name="menu_tujuan">Tujuan Program Studi TI</string>
     <string name="menu_lulusan">Profil Lulusan Program TI</string>
     <string name="menu_studi">Mengapa Memilih Program Studi TI</string>
     <string name="menu_kurikulum">Kurikulum</string>
@@ -20,7 +20,7 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
 
-    <string name="konten_tentang">Menjadi Universitas Terpercaya dan Profesional yang berwawasan Global, untuk memenuhi kebutuhan dunia industri dan kewirausahaan berbasis Ilmu Pengetahuan dan Teknologi pada tahun 2030 </string>
+    <string name="konten_tentang">Universitas Dian Nusantara adalah universitas baru di wilayah DKI Jakarta yang memiliki kualitas pembelajaran, dosen, dan fasilitas yang tidak kalah dengan Perguruan Tinggi Swasta lain yang berada di DKI Jakarta, yang dimiliki Universitas DianNusantara di antaranya adalah: Pengelola dan pimpinan perguruan tinggi yang profesional dan berpengalaman dalam mengelola beberapa universitas dan institusi pendidikan ternama di Indonesia. </string>
     <string name="konten_visi">Menjadi program studi terpercaya dan profesional yang berwawasan global untuk memenuhi kebutuhan dunia industri dan kewirausahaan berbasis ilmu pengetahuan dan teknologi dalam bidang keahlian network enterprise engineer dan software engineer pada tahun 2030.</string>
     <string name="header_misi">Misi Program Studi TI</string>
     <string name="konten_misi_1">Menyelenggarakan pengajaran, penelitian, dan pengabdian kepada kewirausahaan masyarakat bidang network enterprise engineer dan software engineer yang bermutu, terpercaya dan profesional.</string>
@@ -32,7 +32,30 @@
     <string name="header_tanjung_duren">Kampus Tanjung Duren</string>
     <string name="header_green_ville">Kampus Green Ville</string>
     <string name="header_cibubur">Kampus Cibubur</string>
+    <string name="header_tujuan">Tujuan Program Studi Teknik Informatika</string>
+    <string name="header_profil">Profil Lulusan Program Tekhnik Informatika</string>
+    <string name="header_studi">Mengapa Memilih Program Studi Teknik Informatika</string>
+    <string name="header_kurikulum">Kurikulum</string>
+    <string name="header_hubungi">Hubungi</string>
+    <string name="sub_header_profil">Profil Lulusan</string>
+    <string name="sub_header_tujuan">Tujuan Program</string>
+    <string name="sub_header_studi">Teknik Informatika</string>
 
+    <string name="email_layanan">Email Layanan</string>
+    <string name="isi_email">teknikinformatika@undira.ac.id</string>
+    <string name="isi_hubungi">Serta informasi/program lainnya yang perlu ditampilkan pada halaman website Logo Academy yang sudah bergabung:</string>
+
+
+
+    <string name="konten_tujuan_1">Menghasilkan lulusan yang cerdas, berakhlak mulia, beretika, kompeten, dan berdaya saing tinggi serta mampu mengembangkan sains dan teknologi bidang network enterprise engineer dan software engineer, baik di tingkat nasional maupun global</string>
+    <string name="konten_tujuan_2">Menghasilkan penelitian unggulan dan inovasi yang mendorong pengembangan sains dan teknologi bidang network enterprise engineer dan software engineer dalam skala nasional maupun global</string>
+    <string name="konten_tujuan_3">Menghasilkan pengabdian kepada masyarakat sebagai hasil kegiatan pendidikan dan penelitian bidang network enterprise engineer dan software engineer dalam rangka membantu  memberdayakan masyarakat agar mampu menyelesaikan masalah secara cerdas, mandiri, dan berkelanjutan</string>
+    <string name="konten_tujuan_4">Mewujudkan kemandirian program studi yang adaptif, kreatif, proaktif, dan berkualitas terhadap tuntutan perkembangan teknologi yang berdampak terhadap terwujudnya good university governance.</string>
+
+
+    <string name="konten_studi_1">Teknik Informatika merupakan bidang ilmu yang mempelajari bagaimana menggunakan teknologi komputer secara optimal guna menangani masalah transformasi atau pengolahan data dengan proses logika. Di Jurusan Teknik Informatika kamu akan mempelajari berbagai prinsip terkait ilmu komputer mulai dari proses perancangan pengembangan, pengujian, hingga evaluasi sistem operasi perangkat lunak. Selama kuliah kamu akan banyak mengkaji pemrograman dan komputasi, dan dibekali pula dengan keterampilan merancang perangkat lunak.</string>
+    <string name="kontent_studi_2">Dengan semakin pesatnya perkembangan teknologi membuat Jurusan Teknik Informatika menjadi salah satu jurusan yang memiliki banyak peminat. Pada SBMPTN 2021, Jurusan Teknik Informatika menjadi 5 besar jurusan paling diminati di rumpun saintek. Tidaklah mengherankan, karena jenis pekerjaan menjanjikan di masa depan berhubungan erat dengan lulusan dari jurusan ini Belum lagi, besaran penghasilan yang berpotensi didapatkan pun sangatlah besar. Indonesia saat ini kekurangan tenaga ahli di bidang sains, teknologi, engineering, dan matematika (STEM). Jumlah lulusan di bidang STEM masih belum mencukupi kebutuhan yang ada di era revolusi industri 4.0. Prodi Teknik Informatika Universitas Dian Nusantara hadir dan berkomitmen untuk memenuhi kebutuhan Industri. Pengetahuan dan keahlian yang akan diperoleh dengan kuliah di Program Studi Teknik Informatika adalah kemampuan melakukan analisis, berpikir logis, berpikir sistematis, problem solving, bekerja secara mandiri maupun tim, memahami bahasa pemrograman, rekayasa informatika dan jaringan komputer serta kreatif, tekun, teliti, dan detail. Program Studi Teknik Informatika Universitas Dian Nusantara berdiri pada tahun 2019 dan dalam 2 tahun telah mendapatkan kepercayaan dengan jumlah mahasiswa saat ini adalah 900 mahasiswa. Hal ini menjadi salah satu alasan untuk bergabung dengan kami. Program Studi Teknik Informatika memiliki sumber daya manusia (dosen) dengan kualifikasi S2 dan S3 serta memiliki sertifikasi kompetensi profesional sesuai bidang keilmuannya.</string>
+    <string name="konten_studi_3">Dalam proses belajar dan mengajar, Program Studi Teknik Informatika Universitas Dian Nusantara dilengkapi dengan Learning Management System (LMS) https://kuliahonline.undira.ac.id/ yang bisa diakses kapan saja dan di mana saja, serta terintegrasi ke SPADA DIKTI. Untuk beberapa mata kuliah terintegrasi dengan academy international seperti Oracle Academy, Red Hat Academy dan Huawei Academy, sehingga mahasiswa nanti akan mendapatkan sertifikat attendance course dan kesempatan untuk mendapatkan sertifikasi internasional.</string>
     <string name="alamat_tanjung_duren">JI Tanjung Duren Barat II No 1 Grogol Jakarta Barat. No.Telp: 021-21194454</string>
     <string name="alamat_green_ville">JI. Mangga 14, No 3 Kec Kebon Jeruk Jakarta Barat, 11510</string>
     <string name="alamat_cibubur">Jl. Rawa Dolar 65 Jatiranggon,Kec Jatisampurna, Bekasi. No.Telp: 021-22176334</string>

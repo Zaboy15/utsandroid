@@ -17,4 +17,34 @@
         android:label="@string/menu_visimisi"
         tools:layout="@layout/fragment_gallery" />
 
+    <fragment
+        android:id="@+id/nav_tujuan"
+        android:name="com.undira.tiundira.ui.tujuan.TujuanFragment"
+        android:label="@string/menu_tujuan"
+        tools:layout="@layout/fragment_tujuan" />
+
+    <fragment
+        android:id="@+id/nav_lulusan"
+        android:name="com.undira.tiundira.ui.profil.ProfilFragment"
+        android:label="@string/menu_lulusan"
+        tools:layout="@layout/fragment_profil" />
+
+    <fragment
+        android:id="@+id/nav_studi"
+        android:name="com.undira.tiundira.ui.studi.StudiFragment"
+        android:label="@string/menu_studi"
+        tools:layout="@layout/fragment_studi" />
+
+    <fragment
+        android:id="@+id/nav_kurikulum"
+        android:name="com.undira.tiundira.ui.kurikulum.KurikulumFragment"
+        android:label="@string/menu_kurikulum"
+        tools:layout="@layout/fragment_kurikulum" />
+
+    <fragment
+        android:id="@+id/nav_hubungi"
+        android:name="com.undira.tiundira.ui.hubungi.HubungiFragment"
+        android:label="@string/menu_hubungi"
+        tools:layout="@layout/fragment_hubungi" />
+
 </navigation>

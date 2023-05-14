@@ -34,5 +34,10 @@
             android:icon="@drawable/ic_kurikulum"
             android:title="@string/menu_kurikulum" />
 
+        <item
+            android:id="@+id/nav_hubungi"
+            android:icon="@drawable/ic_hubungi"
+            android:title="@string/menu_hubungi" />
+
     </group>
 </menu>

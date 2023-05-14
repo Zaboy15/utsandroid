@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.tujuan.TujuanFragment"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="0dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent">
+
+
+        <ImageView
+        android:id="@+id/banner_tujuan"
+        android:layout_width="0dp"
+        android:layout_height="187dp"
+        android:src="@drawable/banner_master"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/text_header_tujuan"
+            android:layout_width="225dp"
+            android:layout_height="72dp"
+            android:layout_marginTop="70dp"
+            android:text="@string/header_tujuan"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <TextView
+            android:id="@+id/textSubTujuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="24dp"
+            android:text="@string/sub_header_tujuan"
+            android:textColor="@color/primary"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.024"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/banner_tujuan" />
+
+
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textSubTujuan">
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/dot_konten_tujuan"
+                    android:layout_height="wrap_content"
+                    android:singleLine="false"
+                    android:text="•" />
+
+                <TextView
+                    android:id="@+id/bull_konten_tujuan_1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:singleLine="false"
+                    android:text="@string/konten_tujuan_1"
+                    android:textColor="@color/black" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/dot_konten_tujuan2"
+                    android:layout_height="wrap_content"
+                    android:singleLine="false"
+                    android:text="•" />
+
+                <TextView
+                    android:id="@+id/bull_konten_tujuan_2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:singleLine="false"
+                    android:text="@string/konten_tujuan_2"
+                    android:textColor="@color/black" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/dot_konten_tujuan3"
+                    android:layout_height="wrap_content"
+                    android:singleLine="false"
+                    android:text="•" />
+
+                <TextView
+                    android:id="@+id/bull_konten_tujuan_3"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:singleLine="false"
+                    android:text="@string/konten_tujuan_3"
+                    android:textColor="@color/black" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/dot_konten_tujuan4"
+                    android:layout_height="wrap_content"
+                    android:singleLine="false"
+                    android:text="•" />
+
+                <TextView
+                    android:id="@+id/bull_konten_tujuan_4"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:singleLine="false"
+                    android:text="@string/konten_tujuan_4"
+                    android:textColor="@color/black" />
+            </TableRow>
+
+        </TableLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

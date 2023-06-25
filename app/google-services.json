@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665424762220",
+    "project_id": "tiundiraandroid",
+    "storage_bucket": "tiundiraandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665424762220:android:1ee68dd7a0d78713670f49",
+        "android_client_info": {
+          "package_name": "com.undira.tiundira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665424762220-9m9iqmeh4nba6svds3jr66tohj6eb17q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMFA1LtjmLg1jyIzEenfTOZumBqTzIRkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665424762220-9m9iqmeh4nba6svds3jr66tohj6eb17q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

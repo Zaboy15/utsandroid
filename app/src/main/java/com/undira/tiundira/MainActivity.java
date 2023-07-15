@@ -10,6 +10,7 @@ import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
 import com.google.android.material.navigation.NavigationView;
+import com.google.firebase.database.DatabaseReference;
 import com.undira.tiundira.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
@@ -26,8 +27,26 @@ public class MainActivity extends AppCompatActivity {
 
         setSupportActionBar(binding.appBarMain.toolbar);
 
+        DatabaseReference mDatabase;
+        class Header {
+
+            public String header;
+
+            public Header() {
+                // Default constructor required for calls to DataSnapshot.getValue(User.class)
+            }
+
+            public Header(String header) {
+                this.header = header;
+            }
+
+        }
+
+
         DrawerLayout drawer = binding.drawerLayout;
         NavigationView navigationView = binding.navView;
+
+
         // Passing each menu ID as a set of Ids because each
         // menu should be considered as top level destinations.
         mAppBarConfiguration = new AppBarConfiguration.Builder(
